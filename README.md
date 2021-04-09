@@ -1,6 +1,6 @@
-# This is my resume.
+# This is my resume
 
-1. In Progress
+WIP.
 
 
 
