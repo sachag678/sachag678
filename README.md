@@ -1,5 +1,4 @@
-# Hello there.
-![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
 I enjoy working on understanding the fundamentals of AI:
