@@ -1,5 +1,5 @@
 # Hello there.
-![](https://tenor.com/brdHT.gif)
+![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 I enjoy working on understanding the fundamentals of AI:
