@@ -1,5 +1,5 @@
 # Hello there.
-![Hello There](https://tenor.com/brdHT.gif)
+![](https://tenor.com/brdHT.gif)
 
 
 I enjoy working on understanding the fundamentals of AI:
