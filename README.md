@@ -5,7 +5,7 @@ I am a data scientist who enjoys all things anaytics, visualizations and predict
 
 Some recent projects are:
   - Designing custom anaytics dashboard to track the prices of used iphones on kijiji to find the best deal: [Link](https://github.com/sachag678/iphone-tracker)
-  - Implementing a visualization tool to understand the standard line search and trust region search methods for optimization: [Link](https://github.com/sachag678/optimization)
+  - Implementing a visualizer to understand the standard line search and trust region methods for optimization: [Link](https://github.com/sachag678/optimization)
   
 
 
